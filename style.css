@@ -106,9 +106,3 @@ body {
         color: #fff;
     }
 }
-
-@media (480px < width) {
-    body {
-        display: none;
-    }
-}
